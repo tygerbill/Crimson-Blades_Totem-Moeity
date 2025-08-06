@@ -1,0 +1,175 @@
+:root {
+    /* Color Palette */
+    --color-primary: #1a1a1a;
+    --color-secondary: #c80000;
+    --color-text-light: #f0f0f0;
+    --color-text-dark: #333;
+    --color-border: #555;
+    --color-button-hover: #e04444;
+
+    /* Fonts */
+    --font-heading: 'Bebas Neue', sans-serif;
+    --font-body: 'Roboto Mono', monospace;
+}
+
+/* Base Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-primary);
+    color: var(--color-text-light);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#app-container {
+    width: 90%;
+    max-width: 800px;
+    min-height: 500px;
+    padding: 2rem;
+    border: 2px solid var(--color-secondary);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    background-color: #0d0d0d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Typography */
+h1, h2, h3 {
+    font-family: var(--font-heading);
+    color: var(--color-secondary);
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+p {
+    font-size: 1rem;
+    margin: 1rem 0;
+}
+
+/* Buttons and Links */
+button {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--color-text-light);
+    background-color: var(--color-secondary);
+    border: none;
+    padding: 0.75rem 1.5rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    background-color: var(--color-button-hover);
+}
+
+.modalities-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    max-width: 400px;
+    margin-top: 2rem;
+}
+
+.modality-button {
+    background-color: transparent;
+    border: 2px solid var(--color-secondary);
+}
+
+.modality-button:hover {
+    background-color: var(--color-secondary);
+}
+
+/* Quiz Screen */
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.quiz-question {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.choices-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    max-width: 600px;
+}
+
+.choice-button {
+    font-size: 1.1rem;
+    background-color: #2a2a2a;
+    border: 1px solid var(--color-border);
+}
+
+.choice-button:hover {
+    background-color: #444;
+}
+
+.navigation-container {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+}
+
+.nav-button {
+    padding: 0.5rem 1rem;
+}
+
+/* Results Screen */
+.results-container {
+    text-align: center;
+}
+
+.compass-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
+    #app-container {
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+}
