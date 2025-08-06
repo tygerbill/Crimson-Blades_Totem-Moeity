@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "question": "An enemy alliance is scouting your villages with fake attacks. Do you...",
+    "choices": [
+      {
+        "text": "Immediately prepare a counter-attack and rally your troops.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Carefully analyze their attack patterns and plan a long-term defensive strategy.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Send a diplomatic message to their alliance leader.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Ignore the fakes and continue your normal operations.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "A new, complex game mechanic is introduced (e.g., a new troop type, a change to the wonder). How do you approach this new mechanic?",
+    "choices": [
+      {
+        "text": "You read all the guides, analyze the data, and try to master it as quickly as possible.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "You wait for your more experienced alliance members to figure it out and follow their lead.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      },
+      {
+        "text": "You ignore it for now and stick to the strategies you know.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": -5 }
+      },
+      {
+        "text": "You experiment with it in your own village to see what it does.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "You’ve just finished a major raid. Your granary is almost full with new resources. Do you…",
+    "choices": [
+      {
+        "text": "Immediately check your production and queue up new buildings to spend the resources.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Spend the resources on troops, or simply let the granary overflow for now.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": -5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Organize your resources and use them to help an ally.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "The alliance leader is looking for volunteers to lead a new attack group. Do you...",
+    "choices": [
+      {
+        "text": "Immediately volunteer to lead the group.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Offer to join the group but prefer to follow the leader's orders.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Wait for someone else to step up and lead.",
+        "scores": { "extraversion": -5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "During a long night in the alliance chat, you're mostly...",
+    "choices": [
+      {
+        "text": "Actively engaging in conversations with everyone.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Contributing when you have something important to say.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Reading messages but rarely typing anything.",
+        "scores": { "extraversion": -5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "An ally is being heavily targeted by an enemy, and they are asking for help in the alliance chat. What is your first instinct?",
+    "choices": [
+      {
+        "text": "I immediately prepare troops to send as support.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I send a message of encouragement and check to see how I can help.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I see the message but continue with my own plans for the day.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I figure they can handle it on their own and don't respond.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "After a long night of raiding, you have a lot of new resources. What do you do with them?",
+    "choices": [
+      {
+        "text": "I meticulously plan out my new building queue to use every resource efficiently.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I use the resources to build new troops and buildings, but I don't follow a strict plan.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I leave them in my granary/warehouse for now and will figure it out later.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "You find a massive enemy hammer (attack wave) headed toward your capital. How do you feel?",
+    "choices": [
+      {
+        "text": "I feel calm. I have a plan and trust my defenses.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit of tension, but I can handle it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -2, "openness": 0 }
+      },
+      {
+        "text": "I feel anxious and worried about the outcome.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I get easily agitated and start panicking in the alliance chat.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "During a period of intense fighting and constant scouting, how do you manage your emotions?",
+    "choices": [
+      {
+        "text": "I feel relaxed and am confident in my ability to handle any threat.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness":
