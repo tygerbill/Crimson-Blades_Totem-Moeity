@@ -165,4 +165,1054 @@
     "choices": [
       {
         "text": "I feel relaxed and am confident in my ability to handle any threat.",
-        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness":
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I feel calm and ready for anything.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -4, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit of pressure, but it doesn't affect me.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -2, "openness": 0 }
+      },
+      {
+        "text": "I feel on edge and find it hard to relax.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I feel constantly stressed and can't enjoy the game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "The alliance is discussing a complex strategy involving new terms and concepts. How do you respond?",
+    "choices": [
+      {
+        "text": "I actively participate, using my understanding of the game's mechanics to contribute ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I listen carefully and absorb all the new information.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I follow along but don't contribute much to the conversation.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I get confused by the complex terms and get bored.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I find the conversation uninteresting and would prefer to talk about something else.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "You're asked to join a group of alliance members to discuss an upcoming plan on Discord. How do you feel about joining?",
+    "choices": [
+      {
+        "text": "I feel excited and look forward to the conversation.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel comfortable and am happy to join.",
+        "scores": { "extraversion": 4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit reserved but will participate.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel uncomfortable in large groups and would prefer to communicate in a text chat.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I would actively avoid the meeting.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "An alliance member makes a mistake that costs the alliance a village. How do you react?",
+    "choices": [
+      {
+        "text": "I offer constructive feedback and support them in learning from the mistake.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I voice my frustration but avoid being personal.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I say nothing in the public chat.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I get angry and call them out on their mistake.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I mock them in the alliance chat for their failure.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "You're preparing to send a timed attack. What is your approach?",
+    "choices": [
+      {
+        "text": "I meticulously check the timing down to the second and use a timer to ensure perfection.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I double-check my attack time to make sure it's accurate.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I send the attack when I think it's ready, without overthinking the timing.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often have to resend attacks because I get the timing wrong.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I forget to check the timing and just send the attack.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Your farms are constantly being raided by a larger player. What is your emotional state?",
+    "choices": [
+      {
+        "text": "I am unconcerned; it is just a part of the game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I am slightly bothered but can manage it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -4, "openness": 0 }
+      },
+      {
+        "text": "I am worried about losing resources but can still play.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -3, "openness": 0 }
+      },
+      {
+        "text": "I feel anxious and find it hard to focus on anything else.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I am constantly stressed and think about quitting the game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "A critical moment in the game requires a bold, unconventional strategy. What do you do?",
+    "choices": [
+      {
+        "text": "I suggest a creative and risky plan that no one has thought of before.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I'm open to new ideas and help develop them with the team.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I stick to the tried-and-true methods that have worked in the past.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I am not interested in creative or risky plans.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I find it difficult to think of new ideas or strategies.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "The alliance is having a lively debate in the chat about a strategic decision. How do you participate?",
+    "choices": [
+      {
+        "text": "I actively offer my opinion and try to influence the outcome.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I contribute to the discussion when I have a strong point to make.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I follow the conversation but don't typically add my own thoughts.",
+        "scores": { "extraversion": -3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I prefer to stay out of debates and let others decide.",
+        "scores": { "extraversion": -4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I avoid the chat when I see a debate starting.",
+        "scores": { "extraversion": -5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "An alliance member is complaining that they were sniped (lost a village to a single troop) and are very upset. What is your reaction?",
+    "choices": [
+      {
+        "text": "I offer my condolences and try to help them recover.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I let them know that I understand their frustration.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I see the message but don't respond.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I tell them to get over it and rebuild.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I think they are being overly emotional and ignore the situation.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "When managing your village and its resources, your approach is typically...",
+    "choices": [
+      {
+        "text": "To keep things meticulously organized and efficient.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "To have a general system, but things can get a bit chaotic.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "To manage things as they come, without a strict plan.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "To often have a disorganized granary or resource dump.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "After losing a significant number of troops in a battle, what is your emotional state?",
+    "choices": [
+      {
+        "text": "I feel motivated to rebuild and get revenge.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I feel disappointed but quickly move on.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -4, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit down and need some time to get back into the game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I feel frustrated and it affects my overall mood.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I feel a deep sadness and consider quitting.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "An alliance member suggests an unconventional and experimental troop combination. How do you respond?",
+    "choices": [
+      {
+        "text": "I am intrigued and want to discuss the potential.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I listen to the idea but remain skeptical.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I think it sounds too complicated and don't pay much attention.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I immediately dismiss the idea as being too abstract and impractical.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I'm not interested in discussing theoretical strategies.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "When you enter the alliance chat, what is your typical behavior?",
+    "choices": [
+      {
+        "text": "I usually greet everyone and try to get a conversation going.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I say hello and respond to others.",
+        "scores": { "extraversion": 4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I read the chat but don't usually say anything first.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I am usually silent and only post when necessary.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I tend to avoid the main chat room.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "An alliance member is having a difficult time in the game and is asking for advice. How do you respond?",
+    "choices": [
+      {
+        "text": "I actively offer help and try to find a solution.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I listen to their problem and offer some words of encouragement.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I let others handle it and don't get involved.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I find their problem uninteresting and ignore the request.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I am completely uninterested in helping new players.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "You have a number of daily tasks to do in your village (e.g., raiding, farming, sending resources). How do you approach them?",
+    "choices": [
+      {
+        "text": "I make a to-do list and complete all my tasks at the beginning of the day.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I get my tasks done as soon as I can, without a specific plan.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I usually do my tasks throughout the day as I have time.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often put off my tasks until later in the day.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often forget to do my tasks.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "You are trying to plan a big attack and are constantly being messaged by a rival player trying to distract you. What is your reaction?",
+    "choices": [
+      {
+        "text": "I don't let it bother me and stay focused on my plan.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I'm a bit annoyed, but I can work through it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -2, "openness": 0 }
+      },
+      {
+        "text": "I feel frustrated and it affects my concentration.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 3, "openness": 0 }
+      },
+      {
+        "text": "I get easily sidetracked and lose focus on my plan.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I get completely disturbed and find it impossible to continue my work.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "The alliance is struggling with a strategic problem. What is your role in the solution?",
+    "choices": [
+      {
+        "text": "I usually come up with the most creative and effective solutions.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I often contribute good ideas to the discussion.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I listen to the ideas of others and offer my opinion.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I find it difficult to come up with new ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I don't contribute to these kinds of discussions.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "In a high-stakes moment during a raid, your alliance is discussing a plan in the chat. You...",
+    "choices": [
+      {
+        "text": "Offer your tactical insights and suggestions to the group.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Follow the conversation, but only speak up if your opinion is requested.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Stay silent and let others take the lead.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "A beginner player in a nearby village is being relentlessly attacked by a powerful enemy. What do you do?",
+    "choices": [
+      {
+        "text": "Send resources and troops to help them defend.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Send a message of encouragement and offer advice.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Let the more powerful players in the alliance handle it.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Ignore the situation and focus on your own game.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Watch the attacks and feel no sympathy for the player.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "After a major attack, there are leftover defensive troops. How do you manage them?",
+    "choices": [
+      {
+        "text": "I send them back to their home village immediately and check my reports.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I eventually send them back, but sometimes I forget.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often forget about them, leaving them in the village they were sent to.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "You lose a high-value item from an adventure. What's your initial reaction?",
+    "choices": [
+      {
+        "text": "I shrug it off; it's just a game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I'm a little annoyed but continue playing.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -2, "openness": 0 }
+      },
+      {
+        "text": "I feel frustrated and my mood is affected for a while.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 3, "openness": 0 }
+      },
+      {
+        "text": "I get very upset and angry.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I get so angry that I consider quitting the game for the day.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "The alliance needs a creative solution for a difficult strategic problem. What do you do?",
+    "choices": [
+      {
+        "text": "I immediately brainstorm multiple creative solutions.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I contribute to the discussion and offer a few ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I think it's better to stick to a proven strategy.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I find it hard to come up with new ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "In the alliance chat, a few different conversations are happening at once. You...",
+    "choices": [
+      {
+        "text": "Actively participate in all of them at the same time.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Focus on one or two conversations that interest you.",
+        "scores": { "extraversion": 4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Follow the conversations but don't actively participate.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Only pay attention to the conversations directly related to you.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Find the multiple conversations distracting and leave the chat.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "A new player joins the alliance and asks a lot of beginner questions. How do you respond?",
+    "choices": [
+      {
+        "text": "I offer to help them and answer all of their questions.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I provide some basic guidance but let others help.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I let the more experienced players handle it.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I find their questions annoying and ignore them.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I am completely uninterested in helping new players.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "An alliance member sends you resources for a major building project, but they are disorganized and hard to track. What do you do?",
+    "choices": [
+      {
+        "text": "I meticulously track every resource sent to ensure nothing is lost.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ask them to be more organized next time.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I accept the resources and use them, but the disorganization bothers me.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I'm not bothered by the disorganization and just use the resources.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I am a disorganized player myself and don't care about the state of my resources.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Your account is being attacked, and you are trying to rally your defenses. How does this affect your mood?",
+    "choices": [
+      {
+        "text": "I remain calm and my mood is unaffected.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I am slightly irritated but can work through it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -2, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit of frustration, but my mood doesn't change drastically.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -1, "openness": 0 }
+      },
+      {
+        "text": "My mood fluctuates between fear and anger.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I experience frequent and intense mood swings throughout the ordeal.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "The alliance leader explains a new strategy in a single, short message. What is your reaction?",
+    "choices": [
+      {
+        "text": "I understand it completely and immediately start to implement it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I grasp the main points and ask a few clarifying questions.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I understand the general idea but need more information to fully implement it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I have difficulty understanding the strategy and have to ask a lot of questions.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I am confused by the explanation and need to have it repeated.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "The alliance is celebrating a major victory. Your role was critical, but no one is aware. Do you...",
+    "choices": [
+      {
+        "text": "Tell the alliance members what you did and take credit for your contribution?",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Humbly mention your contribution if asked?",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Let others take the credit and celebrate their hard work?",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "An alliance member sends you a message asking for a small amount of resources. You are busy with your own projects. Do you...",
+    "choices": [
+      {
+        "text": "Immediately send them the resources they need?",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Finish what you're doing and then send the resources?",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Ignore the message and assume someone else will help?",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Politely decline because you are too busy?",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "Get annoyed at their request and ignore the message?",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "You've been assigned a specific role in an upcoming attack, but you feel that it is too much work. What do you do?",
+    "choices": [
+      {
+        "text": "I fulfill my duty, regardless of the effort it takes.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ask for help from another alliance member.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ask if I can have a different, less demanding role.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ignore the request and hope no one notices.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I refuse to participate in the attack.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Your alliance loses a critical battle. How does this loss affect you?",
+    "choices": [
+      {
+        "text": "I stay positive and look forward to the next battle.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -5, "openness": 0 }
+      },
+      {
+        "text": "I am disappointed but quickly recover.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": -4, "openness": 0 }
+      },
+      {
+        "text": "My mood fluctuates between anger and sadness for a while.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 3, "openness": 0 }
+      },
+      {
+        "text": "I get very angry and frustrated and it affects my ability to play.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I experience frequent and intense mood swings throughout the ordeal.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "You're explaining a complex strategy to a new player. You...",
+    "choices": [
+      {
+        "text": "Use clear and simple language to make sure they understand.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      },
+      {
+        "text": "Use some technical terms but explain them as you go.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "Use complex terminology that may be difficult for them to follow.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "Use many technical terms without explaining them.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "A major alliance offensive is being planned, and you are asked to be the main point of contact and to lead the charge. How do you feel about this responsibility?",
+    "choices": [
+      {
+        "text": "I love being in a leadership position and the center of attention.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I am comfortable with the role.",
+        "scores": { "extraversion": 4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I accept the role but would prefer to be in the background.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel nervous and anxious about the responsibility.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I would actively refuse to be the center of attention.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "A new player in your alliance is being heavily farmed by a much stronger player. How do you react to the situation?",
+    "choices": [
+      {
+        "text": "I feel deep sympathy and immediately try to help them.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel bad for them and offer words of encouragement.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit of sympathy, but I assume they'll figure it out.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I don't really feel any emotions towards their situation.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I'm not concerned with other people's problems.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "You have a long-term goal of building a powerful hammer (attack army) by the end of the server. What is your approach?",
+    "choices": [
+      {
+        "text": "I have a detailed, daily schedule for troop production and resource management.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I have a general plan but am flexible with my schedule.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I play by feel and build troops when I have the resources.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often forget about my long-term goals and get distracted by other things.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I rarely follow a schedule and just play spontaneously.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "An alliance member is constantly making small mistakes or sending annoying messages in the chat. How does this affect you?",
+    "choices": [
+      {
+        "text": "I remain calm and am not bothered.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 1, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit annoyed, but I can handle it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I get frustrated and find it hard to concentrate on my game.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 3, "openness": 0 }
+      },
+      {
+        "text": "I get easily irritated and start to snap at them.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I get so frustrated that it completely ruins my game session.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Your alliance just lost a major battle. What do you do after the battle?",
+    "choices": [
+      {
+        "text": "I immediately start analyzing the battle reports to learn what went wrong.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I think about the mistakes that were made and how to improve.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I move on and focus on the next battle.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 3 }
+      },
+      {
+        "text": "I forget about it and start rebuilding my troops.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I don't think about the battle at all.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "A player from a different alliance sends you a diplomatic message. How do you respond?",
+    "choices": [
+      {
+        "text": "I respond with a quick, polite message.",
+        "scores": { "extraversion": 1, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I engage in a longer conversation to get to know them.",
+        "scores": { "extraversion": 2, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I keep my responses short and to the point.",
+        "scores": { "extraversion": 3, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit shy and hesitate before responding.",
+        "scores": { "extraversion": 4, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ignore the message and let my alliance leader handle it.",
+        "scores": { "extraversion": 5, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "An alliance member is having a bad day and is being negative in the chat. How do you handle the situation?",
+    "choices": [
+      {
+        "text": "I try to lift their spirits and make them feel better.",
+        "scores": { "extraversion": 0, "agreeableness": 5, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I offer some words of encouragement.",
+        "scores": { "extraversion": 0, "agreeableness": 4, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I ignore the situation and let others handle it.",
+        "scores": { "extraversion": 0, "agreeableness": 3, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I get annoyed by their negativity.",
+        "scores": { "extraversion": 0, "agreeableness": 2, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I tell them to stop being so negative.",
+        "scores": { "extraversion": 0, "agreeableness": 1, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "You are building your hammer for a future offensive. What is your approach to troop building?",
+    "choices": [
+      {
+        "text": "I follow a strict production plan and check my troop numbers daily.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 5, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I have a general plan but am flexible with my production.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 4, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I build troops when I remember to.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 3, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I often forget to send troops to the training queue.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 2, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I don't have a plan and just build troops when I feel like it.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 1, "neuroticism": 0, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "You log in to find a large number of troops were lost in a surprise attack. What is your emotional reaction?",
+    "choices": [
+      {
+        "text": "I am motivated to rebuild and get revenge.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 1, "openness": 0 }
+      },
+      {
+        "text": "I feel a bit sad, but I quickly move on.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 2, "openness": 0 }
+      },
+      {
+        "text": "I feel disappointed and it affects my mood for a while.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 3, "openness": 0 }
+      },
+      {
+        "text": "I feel very down and upset about the loss.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 4, "openness": 0 }
+      },
+      {
+        "text": "I feel so sad that I consider quitting the game for the day.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 5, "openness": 0 }
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "The alliance is trying to find a new way to conquer a tough enemy. What is your role in the brainstorming session?",
+    "choices": [
+      {
+        "text": "I offer many creative and unconventional ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 5 }
+      },
+      {
+        "text": "I contribute a few good ideas to the discussion.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 4 }
+      },
+      {
+        "text": "I listen to others' ideas but don't contribute my own.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 0 }
+      },
+      {
+        "text": "I find it hard to think of new ideas.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 2 }
+      },
+      {
+        "text": "I think the only way to win is to stick to a proven strategy.",
+        "scores": { "extraversion": 0, "agreeableness": 0, "conscientiousness": 0, "neuroticism": 0, "openness": 1 }
+      }
+    ]
+  }
+]
